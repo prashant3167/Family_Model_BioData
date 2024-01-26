@@ -1,0 +1,44 @@
+Target Name	Target Accession	Target Length	Query Name	Query Accession	Query Length	E-value	Score	Bias	Domain Index	Domain Count	Cond. E-value	Domain Ind. E-value	Domain Bit-score	Domain Bias	Query Ali. Start	Query Ali. End	Target Ali. Start	Target Ali. End	Target Env. Start	Target Env. End	Acc	Description	Mapped PDB(s)	Number of Identical Sequences
+PRX5_EMENI	PRX5_EMENI	168	conserved-msa-output	-	1379	1.2e-116	396.2	1.2	1	1	9.5e-121	1.3e-116	396.060852050781	1.24	33	199	1	168	1	168	0.99	Putative peroxiredoxin prxA		0
+PRX5_ASPFU	PRX5_ASPFU	168	conserved-msa-output	-	1379	2.5e-116	395.1	0.8	1	1	2.0e-120	2.7e-116	394.985595703125	0.78	33	199	1	168	1	168	0.99	Peroxiredoxin Asp f3	5j9b_A	0
+PRX5_PENCI	PRX5_PENCI	167	conserved-msa-output	-	1379	1.6e-111	379.2	0.7	1	1	1.3e-115	1.8e-111	379.024627685547	0.71	34	199	1	167	1	167	0.99	Peroxiredoxin Pen c 3		0
+PMP20_LIPKO	PMP20_LIPKO	166	conserved-msa-output	-	1379	1.2e-69	240.5	2.5	1	1	9.4e-74	1.3e-69	240.344039916992	2.53	40	198	3	165	1	166	0.96	Putative peroxisomal peroxiredoxin		0
+POP1_YEAST	POP1_YEAST	875	conserved-msa-output	-	1379	9.3e-61	211.0	12.5	1	2	1.5e-56	2.0e-52	183.339004516602	8.26	258	1020	23	795	2	802	0.70	Ribonucleases P/MRP protein subunit POP1	6agb_B	0
+POP1_YEAST	POP1_YEAST	875	conserved-msa-output	-	1379	9.3e-61	211.0	12.5	2	2	2.8e-08	0.00038	23.3799800872803	0.13	1062	1100	804	842	791	846	0.87	Ribonucleases P/MRP protein subunit POP1	6agb_B	0
+MALF2_MALFU	MALF2_MALFU	177	conserved-msa-output	-	1379	4.5e-58	202.1	0.9	1	1	3.9e-62	5.2e-58	201.858612060547	0.94	43	199	15	177	5	177	0.92	Putative peroxiredoxin		0
+MALF3_MALFU	MALF3_MALFU	166	conserved-msa-output	-	1379	8.9e-58	201.1	0.2	1	1	7.6e-62	1.0e-57	200.887817382812	0.24	45	199	8	166	2	166	0.93	Putative peroxiredoxin (Fragment)		0
+POPI_SCHPO	POPI_SCHPO	698	conserved-msa-output	-	1379	8.6e-52	181.3	12.5	1	2	1.8e-45	2.4e-41	146.626571655273	5.17	267	922	15	581	7	586	0.73	Ribonucleases P/MRP protein subunit pop1		0
+POPI_SCHPO	POPI_SCHPO	698	conserved-msa-output	-	1379	8.6e-52	181.3	12.5	2	2	1.1e-10	1.5e-06	31.3897666931152	0.43	1069	1152	633	697	623	698	0.86	Ribonucleases P/MRP protein subunit pop1		0
+MIC19_EMENI	MIC19_EMENI	209	conserved-msa-output	-	1379	3.2e-47	166.1	0.2	1	1	2.7e-51	3.7e-47	165.919677734375	0.18	1176	1379	17	209	3	209	0.89	MICOS complex subunit mic19		0
+AHP1_YEAST	AHP1_YEAST	176	conserved-msa-output	-	1379	5.4e-45	158.7	3.9	1	1	4.3e-49	5.8e-45	158.630233764648	3.87	40	199	7	176	1	176	0.92	Peroxiredoxin AHP1	4dss_A	0
+PMPB_CANBO	PMPB_CANBO	167	conserved-msa-output	-	1379	3.8e-42	149.3	0.0	1	1	3.1e-46	4.2e-42	149.158218383789	0.01	33	199	1	167	1	167	0.93	Putative peroxiredoxin-B		0
+PMPA_CANBO	PMPA_CANBO	167	conserved-msa-output	-	1379	9.4e-42	148.0	0.0	1	1	7.7e-46	1.0e-41	147.854309082031	0.01	33	199	1	167	1	167	0.93	Putative peroxiredoxin-A		0
+PRX2C_ORYSJ	PRX2C_ORYSJ	162	conserved-msa-output	-	1379	1.3e-38	137.6	0.0	1	1	1.1e-42	1.5e-38	137.373809814453	0.01	76	198	34	161	33	162	0.91	Peroxiredoxin-2C		0
+PRX2B_ARATH	PRX2B_ARATH	162	conserved-msa-output	-	1379	2.5e-38	136.6	0.0	1	1	2.3e-42	3.0e-38	136.372573852539	0.03	76	198	34	161	32	162	0.91	Peroxiredoxin-2B		0
+PRX2D_ARATH	PRX2D_ARATH	162	conserved-msa-output	-	1379	4.7e-38	135.7	0.0	1	1	4.3e-42	5.8e-38	135.43278503418	0.01	76	198	34	161	33	162	0.91	Peroxiredoxin-2D		0
+PRX2E_ARATH	PRX2E_ARATH	234	conserved-msa-output	-	1379	5.9e-38	135.4	0.0	1	1	4.9e-42	6.6e-38	135.25798034668	0.00	72	198	100	233	34	234	0.79	Peroxiredoxin-2E, chloroplastic		0
+PR2E1_ORYSJ	PR2E1_ORYSJ	232	conserved-msa-output	-	1379	1.4e-37	134.1	0.0	1	1	1.4e-41	1.9e-37	133.762741088867	0.02	76	198	102	231	101	232	0.90	Peroxiredoxin-2E-1, chloroplastic		0
+PRX2C_ARATH	PRX2C_ARATH	162	conserved-msa-output	-	1379	2.0e-37	133.7	0.0	1	1	1.8e-41	2.5e-37	133.366500854492	0.01	76	198	34	161	33	162	0.91	Peroxiredoxin-2C		0
+PRX2_POPTR	PRX2_POPTR	162	conserved-msa-output	-	1379	7.7e-37	131.7	0.0	1	1	6.8e-41	9.2e-37	131.466812133789	0.02	76	198	34	161	32	162	0.91	Peroxiredoxin-2	1tp9_A	0
+PR2E2_ORYSJ	PR2E2_ORYSJ	225	conserved-msa-output	-	1379	8.7e-37	131.5	0.0	1	1	6.6e-41	8.8e-37	131.522689819336	0.02	76	198	94	224	29	225	0.93	Peroxiredoxin-2E-2, chloroplastic		0
+PRDX5_RAT	PRDX5_RAT	213	conserved-msa-output	-	1379	8.8e-33	118.3	0.1	1	1	2.1e-36	2.8e-32	116.625747680664	0.02	74	198	80	212	42	213	0.89	Peroxiredoxin-5, mitochondrial		0
+PRDX5_HUMAN	PRDX5_HUMAN	214	conserved-msa-output	-	1379	1.5e-31	114.2	0.0	1	1	2.2e-35	3.0e-31	113.196342468262	0.01	74	198	81	213	26	214	0.89	Peroxiredoxin-5, mitochondrial	1hd2_A	0
+PRDX5_PAPHA	PRDX5_PAPHA	215	conserved-msa-output	-	1379	1.6e-31	114.1	0.0	1	1	2.2e-35	3.0e-31	113.206253051758	0.01	74	198	82	214	23	215	0.89	Peroxiredoxin-5, mitochondrial		0
+PRDX5_MOUSE	PRDX5_MOUSE	210	conserved-msa-output	-	1379	2.6e-31	113.4	0.0	1	1	5.3e-35	7.1e-31	111.951522827148	0.01	74	198	77	209	29	210	0.88	Peroxiredoxin-5, mitochondrial		0
+PRX2F_ARATH	PRX2F_ARATH	201	conserved-msa-output	-	1379	5.6e-31	112.3	0.8	1	1	5.1e-35	6.8e-31	112.014999389648	0.76	74	198	70	200	67	201	0.94	Peroxiredoxin-2F, mitochondrial		0
+PRX2F_ORYSJ	PRX2F_ORYSJ	198	conserved-msa-output	-	1379	1.5e-30	110.9	1.1	1	1	1.3e-34	1.7e-30	110.668167114258	1.12	75	198	68	197	65	198	0.92	Peroxiredoxin-2F, mitochondrial		0
+PRDX5_CHLAE	PRDX5_CHLAE	215	conserved-msa-output	-	1379	2.0e-30	110.4	0.0	1	1	3.0e-34	4.1e-30	109.437629699707	0.01	74	198	82	214	22	215	0.89	Peroxiredoxin-5, mitochondrial		0
+GSPRX_MARGR	GSPRX_MARGR	247	conserved-msa-output	-	1379	4.2e-30	109.4	0.0	1	1	3.5e-34	4.8e-30	109.214851379395	0.01	75	200	32	166	26	211	0.88	Glutathione amide-dependent peroxidase		0
+PRDX5_BOVIN	PRDX5_BOVIN	219	conserved-msa-output	-	1379	7.9e-30	108.5	0.0	1	1	1.2e-33	1.6e-29	107.494514465332	0.00	74	198	86	218	51	219	0.88	Peroxiredoxin-5, mitochondrial		0
+PRX5_SYNY3	PRX5_SYNY3	189	conserved-msa-output	-	1379	1.2e-29	107.9	0.0	1	1	1.0e-33	1.4e-29	107.71459197998	0.00	75	177	37	144	33	176	0.87	Peroxiredoxin sll1621		0
+PRX5_HAEIN	PRX5_HAEIN	241	conserved-msa-output	-	1379	2.9e-29	106.6	0.0	1	1	2.6e-33	3.5e-29	106.332626342773	0.01	72	203	28	166	24	195	0.82	Hybrid peroxiredoxin hyPrx5	1nm3_B	0
+PRX5_RHIET	PRX5_RHIET	179	conserved-msa-output	-	1379	1.2e-26	97.9	0.0	1	1	1.1e-30	1.5e-26	97.6205368041992	0.02	75	175	38	143	34	154	0.90	Peroxiredoxin		0
+PRX5_SINFN	PRX5_SINFN	188	conserved-msa-output	-	1379	4.6e-25	92.7	0.0	1	1	4.4e-29	5.9e-25	92.3491821289062	0.00	75	172	38	140	34	151	0.88	Peroxiredoxin y4vD		0
+PMP20_SCHPO	PMP20_SCHPO	156	conserved-msa-output	-	1379	1.8e-24	90.7	2.7	1	1	1.6e-28	2.1e-24	90.5090637207031	2.67	79	198	29	155	26	156	0.88	Peroxisomal membrane associated protein 20		0
+POP1_HUMAN	POP1_HUMAN	1024	conserved-msa-output	-	1379	7.3e-22	82.1	7.8	1	4	5.0e-06	0.067	15.949312210083	3.55	295	366	104	177	86	191	0.68	Ribonucleases P/MRP protein subunit POP1	6ahu_B	0
+POP1_HUMAN	POP1_HUMAN	1024	conserved-msa-output	-	1379	7.3e-22	82.1	7.8	2	4	2.6e-09	3.5e-05	26.830545425415	0.06	444	585	191	322	177	327	0.84	Ribonucleases P/MRP protein subunit POP1	6ahu_B	0
+POP1_HUMAN	POP1_HUMAN	1024	conserved-msa-output	-	1379	7.3e-22	82.1	7.8	3	4	5.4e-11	7.2e-07	32.4115715026855	0.03	635	920	424	726	417	795	0.72	Ribonucleases P/MRP protein subunit POP1	6ahu_B	0
+POP1_HUMAN	POP1_HUMAN	1024	conserved-msa-output	-	1379	7.3e-22	82.1	7.8	4	4	0.0053	71	5.91922092437744	0.00	983	1102	855	987	840	1006	0.67	Ribonucleases P/MRP protein subunit POP1	6ahu_B	0
+PRX2A_ARATH	PRX2A_ARATH	553	conserved-msa-output	-	1379	5.2e-18	69.3	0.1	1	1	5.6e-22	7.5e-18	68.7966690063477	0.06	76	129	34	87	33	95	0.95	Peroxiredoxin-2A		0
+POP1_ARATH	POP1_ARATH	826	conserved-msa-output	-	1379	5.0e-11	46.2	1.1	1	1	6.0e-15	8.1e-11	45.4919548034668	1.14	379	873	57	552	10	564	0.70	Ribonucleases P/MRP protein subunit POP1		0
+MIC19_SCHPO	MIC19_SCHPO	162	conserved-msa-output	-	1379	0.00067	22.6	0.3	1	1	5.8e-08	0.00078	22.3614654541016	0.31	1181	1240	14	73	6	150	0.79	MICOS complex subunit mic19		0
